@@ -9,4 +9,4 @@
 
 ### 截图
 
-![image](https://user-images.githubusercontent.com/42088233/153124137-4066a174-ea69-4053-b324-7d12c45f30c9.png)
+![image](https://user-images.githubusercontent.com/42088233/153124237-7cc45b19-0e4d-4eea-ac06-460791dbfbbe.png)
