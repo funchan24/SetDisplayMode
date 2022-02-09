@@ -6,3 +6,7 @@
 
 * 双击 **start.bat** 启动程序
 * 程序通过在windows启动文件夹创建快捷方式实现后台自动运行
+
+### 截图
+
+![image](https://user-images.githubusercontent.com/42088233/153124137-4066a174-ea69-4053-b324-7d12c45f30c9.png)
